@@ -1,0 +1,1 @@
+The application will use a webcam to read the cube, calculate the optimal solution using a CUDA or OpenCL kernel, solved on the GPU.  This solution will then be translated into a suitalbe format for a Lego manipulator assembly to physicall solve the puzzle.
